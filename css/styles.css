@@ -1,0 +1,16 @@
+body {
+font-family: 'Raleway',
+    sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+}
+
+.header-nav {
+    color: #2E2F42;
+    font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+}
+
