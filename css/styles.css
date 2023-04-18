@@ -64,7 +64,7 @@ text-decoration: none;
 }
 
 
-h2 {
+.section-title {
     font-family: 'Roboto';
         font-style: normal;
         font-weight: 700;
@@ -73,7 +73,7 @@ h2 {
         color: #2E2F42;
 }
 
-h3 {
+.card-title {
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
