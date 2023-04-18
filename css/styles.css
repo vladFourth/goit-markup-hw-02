@@ -18,9 +18,14 @@ font-family: 'Raleway',
     text-transform: uppercase;
 }
 
-.logo-particle {
-    color: #2E2F42;
+.logo-particle-header {
+    color: #2E2F42; 
 }
+
+.logo-particle-footer {
+    color: #f4f4fd;
+}
+
 
 .link{
 text-decoration: none;
