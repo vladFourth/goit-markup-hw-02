@@ -18,6 +18,10 @@ font-family: 'Raleway',
     text-transform: uppercase;
 }
 
+.logo-particle {
+    color: #2E2F42;
+}
+
 .link{
 text-decoration: none;
 }
@@ -98,9 +102,7 @@ button[type="button"]:hover {
 
 
 
-.logo-particle {
-    color: #2E2F42;
-}
+
 
 
 
