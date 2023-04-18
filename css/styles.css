@@ -63,3 +63,8 @@ a:hover {
 button[type="button"] {
     cursor: pointer
 }
+
+button[type="button"]:hover {
+    color: #FFFFFF;
+    background: #404BBF;
+}
