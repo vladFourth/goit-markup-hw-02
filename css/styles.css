@@ -7,14 +7,37 @@ font-family: 'Raleway',
 }
  
 .logo {
-    font-family: 'Raleway';
+    font-family: 'Raleway',
+        sans-serif;
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
-    line-height: 1.2;
+    line-height: 1.17;
     color: #4D5AE5;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+}
+
+.link{
+text-decoration: none;
+}
+
+.list {
+    list-style: none
+}
+
+.nav-menu {
+    font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+    
+        /* identical to box height, or 150% */
+        letter-spacing: 0.02em;
+    
+        /* NAVY BLUE */
+        color: #2E2F42;
 }
 
 .header-nav {
@@ -79,9 +102,7 @@ button[type="button"]:hover {
     color: #2E2F42;
 }
 
-.list {
-    list-style: none
-}
+
 
 .main-title {
     color: #FFFFFF;
