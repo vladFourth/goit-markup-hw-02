@@ -14,3 +14,52 @@ font-family: 'Raleway',
         line-height: 1.5;
 }
 
+.hero {
+    background: #2E2F42;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    color: #FFFFFF;
+    font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 1.2;
+}
+
+h2 {
+    font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.1;
+        color: #2E2F42;
+}
+
+h3 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    color: #2E2F42;
+}
+
+.description {
+font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+}
+
+a:hover {
+    color:#FFFFFF ;
+    background: #404BBF;
+}
+
+button[type="button"] {
+    cursor: pointer
+}
