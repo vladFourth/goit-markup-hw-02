@@ -24,7 +24,22 @@ body {
     color: #f4f4fd;
 }
 .header-address {
-    font-style: normal
+    font-style: normal;
+}
+
+.address-item {
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.address-item:hover {
+    color: #404bbf;
+}
+
+.address-item:focus {
+    color: #404bbf;
 }
 
 .link{
@@ -32,7 +47,7 @@ text-decoration: none;
 }
 
 .list {
-    list-style: none
+    list-style: none;
 }
 
 .nav-menu {
