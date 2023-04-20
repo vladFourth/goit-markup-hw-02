@@ -1,6 +1,4 @@
 body {
-/* font-family: 'Raleway',
-    sans-serif;*/
     font-family: 'Roboto', sans-serif;
     color: #434455;
     background-color: #FFFFFF;
@@ -25,7 +23,9 @@ body {
 .logo-particle-footer {
     color: #f4f4fd;
 }
-
+.header-address {
+    font-style: normal
+}
 
 .link{
 text-decoration: none;
