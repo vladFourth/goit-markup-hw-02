@@ -96,10 +96,10 @@ font-family: 'Roboto';
     color: #434455;
 }
 
-a:hover {
+/* a:hover {
     color:#FFFFFF ;
     background: #404BBF;
-}
+} */
 
 button[type="button"] {
     cursor: pointer
