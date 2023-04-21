@@ -40,9 +40,7 @@ color: #434455;
 text-decoration: none;
 }
 
-.list {
-    list-style: none;
-}
+
 
 .nav-menu {
     font-family: 'Roboto';
@@ -210,3 +208,6 @@ button[type="button"]:focus {
     text-transform: uppercase;
 }
 
+.list {
+    list-style: none;
+}
