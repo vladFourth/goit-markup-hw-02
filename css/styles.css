@@ -139,22 +139,39 @@ font-family: 'Roboto';
     letter-spacing: 0.02em;
 }
 
-/* a:hover {
-    color:#FFFFFF ;
-    background: #404BBF;
-} */
+.filter {
+    font-family: 'Roboto',
+        sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #4d5ae5;
+        background: #F4F4FD;
+}
+
+.filter:hover {
+    color: #FFFFFF;
+    background-color:#404BBF ;
+}
+
+.filter:focus {
+    color: #FFFFFF;
+        background-color: #404BBF;
+    }
 
 button[type="button"] {
     cursor: pointer
 }
 
-button[type="button"]:hover {
+/* button[type="button"]:hover {
     background: #404BBF;
 }
 
 button[type="button"]:focus {
     background: #404BBF;
-}
+} */
 
 .main-title {
     color: #FFFFFF;
@@ -192,3 +209,4 @@ button[type="button"]:focus {
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
+
