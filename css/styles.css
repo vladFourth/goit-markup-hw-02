@@ -57,11 +57,11 @@ text-decoration: none;
         /* NAVY BLUE */
         color: #2E2F42;
 }
-.nav-menu:hover{
+.header-nav:hover{
 color: #404bbf;
 }
 
-.nav-menu:focus {
+.header-nav:focus {
 color: #404bbf;
 }
 
