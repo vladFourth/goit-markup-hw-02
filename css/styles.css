@@ -112,6 +112,7 @@ letter-spacing: 0.02em;
 
 .list-item {
     background-color: #FFFFFF;
+    
 }
 
 .card-title {
@@ -121,6 +122,7 @@ letter-spacing: 0.02em;
     font-size: 20px;
     line-height: 1.2;
     color: #2E2F42;
+    letter-spacing: 0.02em;
 }
 
 .description {
@@ -130,6 +132,7 @@ font-family: 'Roboto';
     font-size: 16px;
     line-height: 1.5;
     color: #434455;
+    letter-spacing: 0.02em;
 }
 
 /* a:hover {
