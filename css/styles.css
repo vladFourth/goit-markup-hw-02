@@ -171,6 +171,10 @@ button[type="button"]:focus {
     background: #404BBF;
 }
 
+.project-card {
+    
+}
+
 .main-title {
     color: #FFFFFF;
         font-family: 'Roboto';
