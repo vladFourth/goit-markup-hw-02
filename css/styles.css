@@ -165,13 +165,13 @@ button[type="button"] {
     cursor: pointer
 }
 
-/* button[type="button"]:hover {
+button[type="button"]:hover {
     background: #404BBF;
 }
 
 button[type="button"]:focus {
     background: #404BBF;
-} */
+}
 
 .main-title {
     color: #FFFFFF;
