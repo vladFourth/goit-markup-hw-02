@@ -85,6 +85,17 @@ color: #404bbf;
         color: #2E2F42;
 }
 
+.section-title-two {
+letter-spacing: 0.02em;
+}
+
+.section-title-three {
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    
+}
 .card-title {
     font-family: 'Roboto';
     font-style: normal;
