@@ -149,15 +149,31 @@ font-family: 'Roboto';
         background: #F4F4FD;
 }
 
-.filter:hover {
-    color: #FFFFFF;
-    background-color:#404BBF ;
+
+
+.filter-button {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #4d5ae5;
+    background-color: #F4F4FD;
+
 }
 
-.filter:focus {
+.filter-button:hover {
+
+
+    background-color: #404BBF;
     color: #FFFFFF;
-        background-color: #404BBF;
-    }
+}
+
+.filter-button:focus {
+
+    background-color: #404BBF;
+    color: #FFFFFF;
+}
 
 button[type="button"] {
     cursor: pointer
