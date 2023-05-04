@@ -32,6 +32,7 @@ body {
 }
 
 .address-item {
+
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
@@ -65,13 +66,13 @@ text-decoration: none;
         /* NAVY BLUE */
         color: var(--color-grey);
 }
-/* .header-nav:hover{
+.header-nav:hover{
 color: var(--color-ocean);
 }
 
 .header-nav:focus {
 color: var(--color-ocean);
-} */
+}
 
 .header-nav {
     color: var(--color-grey);
