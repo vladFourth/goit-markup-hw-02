@@ -170,7 +170,7 @@ letter-spacing: 0.02em;
     letter-spacing: 0.04em;
     color: var(--color-iris);
     background-color: var(--color-cloud);
-
+    cursor: pointer;
 }
 
 .filter-button:hover {
@@ -221,6 +221,7 @@ button[type="button"]:focus {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: var(--color-white);
+    cursor: pointer;
 }
 
 .site-footer {
