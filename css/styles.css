@@ -13,6 +13,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
+    font-style: normal;
     color: var(--color-slate);
     background-color: var(--color-white);
 }
@@ -52,8 +53,8 @@ text-decoration: none;
 
 
 .nav-menu {
-    /* font-family: 'Roboto'; */
-        font-style: normal;
+    
+        
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
@@ -64,17 +65,17 @@ text-decoration: none;
         /* NAVY BLUE */
         color: var(--color-grey);
 }
-.header-nav:hover{
+/* .header-nav:hover{
 color: var(--color-ocean);
 }
 
 .header-nav:focus {
 color: var(--color-ocean);
-}
+} */
 
 .header-nav {
     color: var(--color-grey);
-    /* font-family: 'Roboto'; */
+    
         font-style: normal;
         font-weight: 500;
         font-size: 16px;
@@ -88,8 +89,8 @@ color: var(--color-ocean);
 
 
 .section-title {
-    /* font-family: 'Roboto'; */
-        font-style: normal;
+    
+        
         font-weight: 700;
         font-size: 36px;
         line-height: 1.1;
@@ -127,8 +128,8 @@ letter-spacing: 0.02em;
 }
 
 .card-title {
-    font-family: 'Roboto';
-    font-style: normal;
+
+    
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -137,9 +138,7 @@ letter-spacing: 0.02em;
 }
 
 .description {
-/* font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400; */
+
     font-size: 16px;
     line-height: 1.5;
     color: var(--color-slate);
@@ -151,21 +150,20 @@ letter-spacing: 0.02em;
 }
 
 .filter {
-    /* font-family: 'Roboto',
-        sans-serif; */
-        font-style: normal;
+
+        
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.04em;
         color: var(--color-iris);
-        /* background: var(--color-cloud); */
+        
 }
 
 
 
 .filter-button {
-    /* font-family: "Roboto", sans-serif; */
+    font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -206,8 +204,8 @@ button[type="button"]:focus {
 
 .main-title {
     color: var(--color-white);
-        /* font-family: 'Roboto'; */
-        font-style: normal;
+   
+       
         font-weight: 700;
         font-size: 56px;
         line-height: 1.07;
@@ -217,7 +215,7 @@ button[type="button"]:focus {
 
 .main-button {
     background-color: var(--color-iris);
-    /* font-family: "Roboto", sans-serif; */
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -232,7 +230,7 @@ button[type="button"]:focus {
 .logo {
     font-family: 'Raleway',
         sans-serif;
-    font-style: normal;
+    
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
